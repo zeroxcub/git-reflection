@@ -1,7 +1,7 @@
 ## When would you want to use a remote repository rather than keeping all your work local?
 
 - when you want to share your code with someone else or to a team
-- when you want a **anywhere** and **anytime** accessible repository
+- when you want a **anywhere** and **anytime** accessible safe repository
     
 -----------------
 
