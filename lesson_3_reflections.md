@@ -24,15 +24,15 @@ push or pull to/from the remote repository using
 When would you use one instead of another?
 
 - a branch is only on the local repository, it mean to make another path in th git history for experimental change, another feature and so on
-(it can be pushed on the remote repository though)
-- a clone is a local copy of any repository (remote or local) it has the same history log as the original and you can pull update from the remote to yours 
+(it can be pushed on a remote repository though)
+- a clone is a local copy of any repository (remote or local) it has the same history log as the original and you can ***pull and push** update from/to the remote
 - a forks is like a clone, it's a GitHub related concept. It's basically:
-    - clone a repository inside GitHub
-    - link the clone to the original repository
+    - clone a repository inside GitHub it self
+    - link the clone to the original repository as a *fork*
     - then you can clone the fork into your local repository
-you can't push nor pull update to the original forks, you only have a link to it and only push pull to you forks on GitHub
+you can't push nor pull update to/from the original fork, you only have a link to it and only push pull to/from your fork on GitHub
 
-So clone if you intend to receive update an push update, fork if you want a standalone repository for your self
+So clone if you intend to receive update an push update, fork if you want a standalone repository for your self (and the original author doesn't want any change to his repository)
 
 -----------------
 
