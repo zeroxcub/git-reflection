@@ -17,6 +17,7 @@ to avoid merge conflict in an intermediate repository state
 
 push or pull to/from the remote repository using
 `git push/pull origin master` where the origin is the name of the remote repository and the branch you want to push/pull
+
 -----------------
 
 ## Describe the differences between forks, clones, and branches.  When would you
