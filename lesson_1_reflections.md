@@ -23,6 +23,7 @@ make easier to group, track and commit related to logical change to different fi
 - after a `git merge` the log is arranged in ascending fashion based on commit time stamp and therefore
 commit doesn't always show as *parent<--children* so to view the difference between a commit and its parent 
 we use `git show #commit_id`
+
 ---------------
 ## efficiency by having entire history available
 
